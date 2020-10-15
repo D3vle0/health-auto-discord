@@ -1,3 +1,4 @@
+
 # health-auto-discord
 
  special thanks to <a href="https://github.com/n1net4il">@n1net4il</a>  
@@ -12,6 +13,19 @@ cd health-auto-discord
 npm init
 npm i discord.js request fs
 ```
+
+```json
+//credentials.json
+{
+  "token":""
+}
+```
+```json
+//student.json
+[] //이 배열에 이름이 들어갑니다.
+```
+
+
 ## 사용법
 `prefix` = `;`  
 `;자가진단` : 매일 아침 8시 ~ 8시 10분 사이 자동으로 자가진단  
