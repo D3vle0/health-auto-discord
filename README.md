@@ -1,5 +1,6 @@
 # health-auto-discord
- :exclamation: **반드시 건강 상태에 이상이 없을 때에만 사용하세요.**
+
+ special thanks to <a href="https://github.com/n1net4il">@n1net4il</a>  
  
 <a href ="https://github.com/D3vle0/health-auto-check" target="_blank">기존에 python으로 만든 자가진단 자동화 프로그램</a>의 또 다른 버전입니다. 아침마다 파이썬 프로그램을 실행시키는 것 마저 귀찮은 사람들을 위해, 더 많은 사용자들과 공유를 위해 개발하게 되었습니다.  
 
