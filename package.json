@@ -1,0 +1,17 @@
+{
+  "name": "health-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^12.3.1",
+    "fs": "0.0.1-security",
+    "request": "^2.88.2"
+  }
+}
