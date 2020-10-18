@@ -43,7 +43,7 @@ bot.on('message', msg => {
           }
           msg.channel.send(":fire: 모든 사용자에 대해 자가진단을 완료했습니다!");
         }
-      }, 1 * 600000);
+      }, 1 * 3600000);
     }
     else if (status)
       msg.channel.send("이미 켜져있습니다!");
